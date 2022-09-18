@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Xsession.target
+Comment=Xsession.target
+Exec=xsession.target
+Terminal=false
+Type=Application
+NoDisplay=true
+NotShowIn=Unity;

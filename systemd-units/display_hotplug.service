@@ -6,5 +6,5 @@ WorkingDirectory=<path to project>
 ExecStart=<path to venv python> -m hotplug
 
 [Install]
-WantedBy=default.target
+WantedBy=xsession.target
 
